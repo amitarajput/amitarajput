@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amita Rajput
 - 👀 I’m interested in Software Development and DevOps
 - 🌱 I’m currently learning Computer Science and Software Enginering
-- 💞️ I’m looking to collaborate on software and DevOps Projects.
-- 📫 How to reach me you can message on my linkedin account: https://www.linkedin.com/in/amitarajput/ and on my gmail account: arajput@uw.edu
+- 💞️ I’m looking to collaborate on Software Development and DevOps Projects.
+- 📫 How to reach me you can message on my linkedin account: https://www.linkedin.com/in/amitarajput/ and on my gmail ID: arajput@uw.edu
 
 
 <!---
